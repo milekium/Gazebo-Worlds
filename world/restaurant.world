@@ -1251,7 +1251,7 @@
           <pose frame=''>-1.9 -1.17 -0.5 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -1353,7 +1353,7 @@
           <pose frame=''>-1.9 -1.17 -0.5 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -1456,7 +1456,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -1559,7 +1559,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -1662,7 +1662,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -1765,7 +1765,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -1868,7 +1868,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -1971,7 +1971,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2074,7 +2074,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2177,7 +2177,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2280,7 +2280,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2383,7 +2383,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2486,7 +2486,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2589,7 +2589,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2692,7 +2692,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2795,7 +2795,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -2898,7 +2898,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -3001,7 +3001,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -3104,7 +3104,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -3207,7 +3207,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4197,7 +4197,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4300,7 +4300,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4403,7 +4403,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4506,7 +4506,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4609,7 +4609,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4712,7 +4712,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4815,7 +4815,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -4918,7 +4918,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5021,7 +5021,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5124,7 +5124,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5227,7 +5227,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5330,7 +5330,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5433,7 +5433,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5536,7 +5536,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5639,7 +5639,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5742,7 +5742,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5845,7 +5845,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -5948,7 +5948,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -6051,7 +6051,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -6154,7 +6154,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -6257,7 +6257,7 @@
           <pose frame=''>-1.9 -1.17 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/table/table/mesh/table.dae</uri>
+              <uri>model://table/mesh/table.dae</uri>
               <scale>0.6 0.6 0.6</scale>
             </mesh>
           </geometry>
@@ -6360,7 +6360,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -6557,7 +6557,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -7083,7 +7083,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -7280,7 +7280,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -7806,7 +7806,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -8003,7 +8003,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -8529,7 +8529,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -8726,7 +8726,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -9252,7 +9252,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -9449,7 +9449,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -9975,7 +9975,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -10172,7 +10172,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -10698,7 +10698,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -10895,7 +10895,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -11421,7 +11421,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/body01.dae</uri>
+              <uri>model://robot/mesh/body01.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -11618,7 +11618,7 @@
           <pose frame=''>0 0 -0.09 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/robond/project1/model/robot/robot/mesh/cover.dae</uri>
+              <uri>model://robot/mesh/cover.dae</uri>
             </mesh>
           </geometry>
           <material>
