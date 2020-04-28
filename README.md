@@ -29,8 +29,7 @@ If you want to include more worlds of modify existings ones, you are wellcome.
 ## Credits: 
 author: milekium
 
-## License: 
+## License: GNU LGPL v3
 Same license used by Ros.
-### GNU LGPL v3
+
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)  
-`[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)`
